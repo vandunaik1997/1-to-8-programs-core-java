@@ -1,0 +1,10 @@
+package com.instrument;
+
+public class InstrumentMain{
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+D:\Mphasis Advance Training assignment submission\Core Java\ProblemStatement5-String Handling and Regular Expressions\Problem Statemen 5.2\src\com\.metadata\.plugins\org.eclipse.jdt.core

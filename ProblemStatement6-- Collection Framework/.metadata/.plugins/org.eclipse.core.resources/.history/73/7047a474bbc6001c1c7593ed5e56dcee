@@ -1,0 +1,10 @@
+package com.linkedlistemployee;
+import java.util.*;
+public class TestEmployee {
+	private static final Employee[] v = null;
+	public static void main(String[] args) {
+	
+
+	}
+
+}

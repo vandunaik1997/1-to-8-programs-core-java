@@ -1,0 +1,10 @@
+package com.studentarraylist;
+import java.util.*;
+public class StudentNameArrayList {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
